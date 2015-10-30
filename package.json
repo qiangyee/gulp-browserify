@@ -11,7 +11,7 @@
     "Shuhei Kagawa <shuhei.kagawa@gmail.com>"
   ],
   "dependencies": {
-    "browserify": "3.x",
+    "browserify": "~12.0.1",
     "gulp-util": "~2.2.5",
     "browserify-shim": "~2.0.10",
     "readable-stream": "~1.1.10",
